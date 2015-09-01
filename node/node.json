@@ -1,0 +1,8 @@
+{
+    "name": "node",
+    "dependence": [],
+    "source":"./",
+    "file_list": [
+        "node.d.ts"
+    ]
+}

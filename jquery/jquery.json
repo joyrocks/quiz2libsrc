@@ -1,0 +1,8 @@
+{
+    "name": "jquery",
+    "dependence": [],
+    "source":"./",
+    "file_list": [ 
+        "jquery.d.ts"
+    ]
+}

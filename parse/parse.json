@@ -1,0 +1,9 @@
+{
+    "name":"parse",
+    "dependence":["jquery",  "node", "underscore"],
+    "source":"./",
+    "file_list":  [
+    		"parse.js",
+    	     "parse.d.ts"
+    ] 
+}
