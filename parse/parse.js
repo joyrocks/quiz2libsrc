@@ -6,5 +6,5 @@ function addJavascript(jsname,pos) {
 	th.appendChild(s);
 }
 
-addJavascript('http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js','head');
-addJavascript('http://www.parsecdn.com/js/parse-1.5.0.min.js','head');
+addJavascript('//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js','body');
+addJavascript('//www.parsecdn.com/js/parse-1.5.0.min.js','body');
