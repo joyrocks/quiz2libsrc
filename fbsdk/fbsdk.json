@@ -1,0 +1,8 @@
+{
+    "name":"fbsdk",
+    "dependence":[],
+    "source":"./",
+    "file_list":  [
+     	     "fbsdk.d.ts"
+    ] 
+}
